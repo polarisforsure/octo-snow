@@ -1,0 +1,10 @@
+{ 
+  "token"  : "NDYwNDk4NDQ0MjQ3ODkxOTY5.DhFoIQ.fT9OxqXBfzDtwBLZ6HiSz_WcTP0",
+  "prefix" : "+",
+  "Admins" : [145744581760122882, 259416937950478336, 397574337802272778],
+  "Lewds" : {
+            "Gay" : "http://balancer.octaviamedia.se:8080/yiffy/gay/",
+            "Lesbian" : "http://balancer.octaviamedia.se:8080/yiffy/lesbian/",
+            "Straight" : "http://balancer.octaviamedia.se:8080/yiffy/straight/"
+  }
+}
