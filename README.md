@@ -16,7 +16,7 @@ To Add
 * autorole 	Gives the role you mentioned to every new user. 	autorole @New Member #autorole-channel
 * blacklist 	Blocks the command on current server; users can't use the command until it's not blocked again. 	blacklist ask
 * blacklistuser 	User can not use the given command if you blacklisted the user. 	blacklistuser @OCTAVE serverinfo
-* customprefix 	Sets the custom prefix for current server. 	customprefix e!
+* --customprefix 	Sets the custom prefix for current server. 	customprefix e!--
 * giveaway 	Starts a giveaway; you can provide something to make a giveaway of it or you can mention a role to make giveaway in role users. 	-
 * language 	Changes the current bot language on current server. 	
 * purge 	Purges given amount of messages from channel. 	purge 50
