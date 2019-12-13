@@ -651,7 +651,7 @@
       "resolved": "https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.8.tgz",
       "version": "1.4.8"
     },
-    "npm": "^6.4.0",
+    "npm": "^6.13.4",
     "number-is-nan": {
       "integrity": "sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=",
       "resolved": "https://registry.npmjs.org/number-is-nan/-/number-is-nan-1.0.1.tgz",
